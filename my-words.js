@@ -29,6 +29,14 @@ const VOCAB = [
   { word: "锲而不舍", def: "一直刻下去不放手，比喻有恒心、不放弃" },
   { word: "南辕北辙", def: "行动和目的正好相反，永远到不了" },
   { word: "举一反三", def: "从一件事类推，懂得其他许多事" },
+  { word: "身材", def: "人的身体高矮胖瘦等外形" },
+  { word: "自卑", def: "觉得自己不如别人，看轻自己" },
+  { word: "羡慕", def: "看见别人好，希望自己也拥有" },
+  { word: "抗拒", def: "抵抗，不愿意接受" },
+  { word: "诱惑", def: "引诱吸引，使人动摇" },
+  { word: "毅力", def: "坚持做事的坚强意志" },
+  { word: "瞌睡", def: "困，想要睡觉" },
+  { word: "烹饪", def: "煮饭、做菜" },
   // ↑ 照上面的格式往下加就行。别忘了行尾的逗号。
   // ↑ Add more in the same format. Don't forget the comma at the end of each line.
 ];
